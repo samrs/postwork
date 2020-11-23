@@ -150,3 +150,31 @@ form input {
     border-top-right-radius: 0;
     border-bottom-right-radius: 0;
 }
+
+.section-trial{
+    display: flex;
+    max-width: 70%;
+    align-items: center;
+    margin: 100px auto;
+    margin-top: 0;
+    padding: 50px;
+}
+
+.publish > p{
+    font-size: 16px;
+    color: black;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+.explanatory-video{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    align-items: center;
+}
+
+.publish{
+    flex: 1;
+}
+
